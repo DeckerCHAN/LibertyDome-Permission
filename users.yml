@@ -76,7 +76,7 @@ users:
     subgroups: []
     permissions: []
   feige233:
-    group: REG
+    group: NOP
     subgroups: []
     permissions: []
   ftroze:
