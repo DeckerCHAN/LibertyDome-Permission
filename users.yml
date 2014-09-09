@@ -101,6 +101,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Ken:
+    group: REG
+    subgroups: []
+    permissions: []
   Knight_baihe:
     group: REG
     subgroups: []
