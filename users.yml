@@ -178,7 +178,7 @@ users:
     subgroups: []
     permissions: []
   Yuanrunqi:
-    group: REG
+    group: ADM
     subgroups: []
     permissions: []
   YuKineTare:
