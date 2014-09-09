@@ -63,6 +63,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  DeckerCHAN:
+    group: REG
+    subgroups: []
+    permissions: []
   duyi2013:
     group: REG
     subgroups: []
