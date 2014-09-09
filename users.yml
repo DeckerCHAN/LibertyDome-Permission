@@ -64,7 +64,7 @@ users:
     subgroups: []
     permissions: []
   DeckerCHAN:
-    group: REG
+    group: NOP
     subgroups: []
     permissions: []
   duyi2013:
