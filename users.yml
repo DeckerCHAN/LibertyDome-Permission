@@ -125,6 +125,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Shadow:
+    group: REG
+    subgroups: []
+    permissions: []
   shang:
     group: REG
     subgroups: []
