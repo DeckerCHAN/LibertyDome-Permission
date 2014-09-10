@@ -56,7 +56,7 @@ users:
     subgroups: []
     permissions: []
   Cpt_handsome:
-    group: REG
+    group: ADM
     subgroups: []
     permissions: []
   DanGao:
