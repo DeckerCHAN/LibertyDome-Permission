@@ -71,6 +71,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Eric:
+    group: REG
+    subgroups: []
+    permissions: []
   FakeThaumcraftGolem:
     group: REG
     subgroups: []
