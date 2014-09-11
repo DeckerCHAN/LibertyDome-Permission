@@ -23,6 +23,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Araragi:
+    group: REG
+    subgroups: []
+    permissions: []
   Baka_backacd:
     group: REG
     subgroups: []
