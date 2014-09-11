@@ -117,6 +117,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Lzc:
+    group: REG
+    subgroups: []
+    permissions: []
   mogu:
     group: REG
     subgroups: []
