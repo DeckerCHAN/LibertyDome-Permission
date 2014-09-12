@@ -133,6 +133,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Moon_soda:
+    group: REG
+    subgroups: []
+    permissions: []
   Nine_Song:
     group: REG
     subgroups: []
