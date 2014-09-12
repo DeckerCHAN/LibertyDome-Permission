@@ -105,6 +105,10 @@ users:
     permissions: []
     info:
       prefix: '[&b实习管理&f]'
+  Iristenium:
+    group: REG
+    subgroups: []
+    permissions: []
   John:
     group: REG
     subgroups: []
