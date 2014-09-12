@@ -233,3 +233,7 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  wang:
+    group: REG
+    subgroups: []
+    permissions: []
