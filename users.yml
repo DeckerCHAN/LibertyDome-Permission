@@ -209,6 +209,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  woodpecker:
+    group: REG
+    subgroups: []
+    permissions: []
   Yuanrunqi:
     group: ADM
     subgroups: []
