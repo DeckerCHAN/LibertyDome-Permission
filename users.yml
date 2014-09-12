@@ -213,6 +213,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  wenhanxin:
+    group: REG
+    subgroups: []
+    permissions: []
   woodpecker:
     group: REG
     subgroups: []
