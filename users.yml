@@ -209,6 +209,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  wanghui:
+    group: REG
+    subgroups: []
+    permissions: []
   woodpecker:
     group: REG
     subgroups: []
@@ -226,14 +230,6 @@ users:
     subgroups: []
     permissions: []
   zxzzero77:
-    group: REG
-    subgroups: []
-    permissions: []
-  wanghui:
-    group: REG
-    subgroups: []
-    permissions: []
-  wang:
     group: REG
     subgroups: []
     permissions: []
