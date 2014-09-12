@@ -229,6 +229,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  xiaolaoshu:
+    group: REG
+    subgroups: []
+    permissions: []
   Yuanrunqi:
     group: ADM
     subgroups: []
