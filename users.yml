@@ -117,6 +117,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Lsfk:
+    group: REG
+    subgroups: []
+    permissions: []
   lyl:
     group: REG
     subgroups: []
