@@ -117,6 +117,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Kelvely:
+    group: REG
+    subgroups: []
+    permissions: []
   Ken:
     group: REG
     subgroups: []
