@@ -133,6 +133,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  lite_030:
+    group: REG
+    subgroups: []
+    permissions: []
   Lsfk:
     group: REG
     subgroups: []
