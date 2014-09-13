@@ -71,6 +71,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  dec:
+    group: REG
+    subgroups: []
+    permissions: []
   DeckerCHAN:
     group: REG
     subgroups: []
