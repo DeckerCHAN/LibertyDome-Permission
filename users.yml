@@ -273,6 +273,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  yyfart:
+    group: REG
+    subgroups: []
+    permissions: []
   ZAI_E:
     group: REG
     subgroups: []
