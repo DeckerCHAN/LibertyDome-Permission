@@ -257,6 +257,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  XIdada:
+    group: REG
+    subgroups: []
+    permissions: []
   Yuanrunqi:
     group: ADM
     subgroups: []
