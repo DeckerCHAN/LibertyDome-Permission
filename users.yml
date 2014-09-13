@@ -129,6 +129,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  kosyu:
+    group: REG
+    subgroups: []
+    permissions: []
   Lsfk:
     group: REG
     subgroups: []
