@@ -217,6 +217,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Wang:
+    group: REG
+    subgroups: []
+    permissions: []
   wanghui:
     group: REG
     subgroups: []
