@@ -189,6 +189,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  RXM:
+    group: REG
+    subgroups: []
+    permissions: []
   Seedking:
     group: REG
     subgroups: []
