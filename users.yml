@@ -269,6 +269,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  YO_OO:
+    group: REG
+    subgroups: []
+    permissions: []
   Yuanrunqi:
     group: ADM
     subgroups: []
