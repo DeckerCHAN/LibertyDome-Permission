@@ -51,6 +51,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  china_wuyuanzhe:
+    group: REG
+    subgroups: []
+    permissions: []
   Civ_:
     group: REG
     subgroups: []
