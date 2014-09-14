@@ -213,6 +213,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Silverld:
+    group: REG
+    subgroups: []
+    permissions: []
   siriulx:
     group: REG
     subgroups: []
