@@ -309,6 +309,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  yuwan:
+    group: REG
+    subgroups: []
+    permissions: []
   yuxinlei:
     group: REG
     subgroups: []
