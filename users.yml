@@ -157,6 +157,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  liu_li:
+    group: REG
+    subgroups: []
+    permissions: []
   lolo:
     group: REG
     subgroups: []
