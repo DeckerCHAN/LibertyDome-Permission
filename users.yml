@@ -265,6 +265,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  tsukkomier:
+    group: REG
+    subgroups: []
+    permissions: []
   Tualain:
     group: REG
     subgroups: []
