@@ -169,6 +169,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  MlINE:
+    group: REG
+    subgroups: []
+    permissions: []
   mogu:
     group: REG
     subgroups: []
