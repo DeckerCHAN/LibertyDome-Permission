@@ -83,6 +83,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  dqw:
+    group: Builder
+    subgroups: []
+    permissions: []
   duyi2013:
     group: REG
     subgroups: []
