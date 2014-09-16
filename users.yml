@@ -31,6 +31,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Bakura:
+    group: REG
+    subgroups: []
+    permissions: []
   bigburden:
     group: REG
     subgroups: []
@@ -278,6 +282,10 @@ users:
     subgroups: []
     permissions: []
   woodpecker:
+    group: REG
+    subgroups: []
+    permissions: []
+  wuhaoyang:
     group: REG
     subgroups: []
     permissions: []
