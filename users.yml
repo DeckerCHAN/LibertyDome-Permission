@@ -71,6 +71,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  ck221:
+    group: REG
+    subgroups: []
+    permissions: []
   Cpt_handsome:
     group: ADM
     subgroups: []
