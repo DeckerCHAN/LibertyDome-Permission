@@ -7,6 +7,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Alicia_8:
+    group: REG
+    subgroups: []
+    permissions: []
   Amazonei:
     group: REG
     subgroups: []
