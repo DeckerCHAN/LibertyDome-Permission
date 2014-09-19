@@ -143,6 +143,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  galaxy_zbh:
+    group: REG
+    subgroups: []
+    permissions: []
   Glorify_God:
     group: REG
     subgroups: []
