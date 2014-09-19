@@ -79,6 +79,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Clover:
+    group: REG
+    subgroups: []
+    permissions: []
   Cpt_handsome:
     group: ADM
     subgroups: []
