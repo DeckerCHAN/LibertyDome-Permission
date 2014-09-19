@@ -193,6 +193,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Milktea_S:
+    group: REG
+    subgroups: []
+    permissions: []
   MlINE:
     group: REG
     subgroups: []
