@@ -43,6 +43,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  bjiasuo:
+    group: REG
+    subgroups: []
+    permissions: []
   BuleShit:
     group: REG
     subgroups: []
