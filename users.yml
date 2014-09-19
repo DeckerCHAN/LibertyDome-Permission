@@ -127,6 +127,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  fuyun:
+    group: REG
+    subgroups: []
+    permissions: []
   Glorify_God:
     group: REG
     subgroups: []
