@@ -99,6 +99,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Diethyl:
+    group: REG
+    subgroups: []
+    permissions: []
   dqw:
     group: Builder
     subgroups: []
