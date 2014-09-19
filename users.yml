@@ -63,6 +63,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  caimnovus:
+    group: REG
+    subgroups: []
+    permissions: []
   china_wuyuanzhe:
     group: REG
     subgroups: []
