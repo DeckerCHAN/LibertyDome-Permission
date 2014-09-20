@@ -67,6 +67,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  chenxi:
+    group: REG
+    subgroups: []
+    permissions: []
   china_wuyuanzhe:
     group: REG
     subgroups: []
