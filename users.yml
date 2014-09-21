@@ -213,6 +213,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  lonelybird:
+    group: REG
+    subgroups: []
+    permissions: []
   Lsfk:
     group: REG
     subgroups: []
