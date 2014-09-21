@@ -297,6 +297,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  soso:
+    group: REG
+    subgroups: []
+    permissions: []
   SoySauce:
     group: REG
     subgroups: []
