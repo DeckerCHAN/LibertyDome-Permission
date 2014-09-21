@@ -103,6 +103,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  DaGen:
+    group: REG
+    subgroups: []
+    permissions: []
   DanGao:
     group: REG
     subgroups: []
