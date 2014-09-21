@@ -91,6 +91,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  cow:
+    group: REG
+    subgroups: []
+    permissions: []
   Cpt_handsome:
     group: ADM
     subgroups: []
