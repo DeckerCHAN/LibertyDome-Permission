@@ -333,6 +333,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  weilian:
+    group: REG
+    subgroups: []
+    permissions: []
   wenhanxin:
     group: REG
     subgroups: []
