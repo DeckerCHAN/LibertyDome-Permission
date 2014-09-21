@@ -189,6 +189,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  library_loli:
+    group: REG
+    subgroups: []
+    permissions: []
   Like_BBQ:
     group: REG
     subgroups: []
