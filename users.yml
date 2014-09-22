@@ -285,6 +285,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  sianaci:
+    group: REG
+    subgroups: []
+    permissions: []
   Silverld:
     group: REG
     subgroups: []
