@@ -31,6 +31,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Avalon:
+    group: REG
+    subgroups: []
+    permissions: []
   Baka_backacd:
     group: REG
     subgroups: []
@@ -173,6 +177,10 @@ users:
     permissions: []
     info:
       prefix: '[&b实习管理&f]'
+  HinanawiTenshi:
+    group: REG
+    subgroups: []
+    permissions: []
   Iristenium:
     group: REG
     subgroups: []
