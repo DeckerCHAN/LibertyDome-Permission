@@ -317,6 +317,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Skeleton_Devil:
+    group: REG
+    subgroups: []
+    permissions: []
   Sky_doubi:
     group: REG
     subgroups: []
