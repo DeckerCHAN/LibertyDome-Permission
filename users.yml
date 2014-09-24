@@ -31,10 +31,6 @@ users:
     group: REG
     subgroups: []
     permissions: []
-  Avalon:
-    group: REG
-    subgroups: []
-    permissions: []
   Baka_backacd:
     group: REG
     subgroups: []
@@ -202,6 +198,10 @@ users:
     subgroups: []
     permissions: []
   kosyu:
+    group: REG
+    subgroups: []
+    permissions: []
+  Lancelot:
     group: REG
     subgroups: []
     permissions: []
