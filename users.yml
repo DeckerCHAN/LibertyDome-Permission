@@ -75,6 +75,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  chuxuan:
+    group: REG
+    subgroups: []
+    permissions: []
   Civ_:
     group: REG
     subgroups: []
