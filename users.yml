@@ -397,6 +397,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  xxlxx:
+    group: REG
+    subgroups: []
+    permissions: []
   yin_bing:
     group: REG
     subgroups: []
