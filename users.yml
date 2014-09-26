@@ -313,6 +313,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  shaonian233:
+    group: REG
+    subgroups: []
+    permissions: []
   sianaci:
     group: REG
     subgroups: []
