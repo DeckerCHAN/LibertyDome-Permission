@@ -209,6 +209,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Lam_Winterfell:
+    group: REG
+    subgroups: []
+    permissions: []
   Lancelot:
     group: REG
     subgroups: []
@@ -246,6 +250,10 @@ users:
     subgroups: []
     permissions: []
   Lzc:
+    group: REG
+    subgroups: []
+    permissions: []
+  Mceside:
     group: REG
     subgroups: []
     permissions: []
@@ -450,6 +458,10 @@ users:
     subgroups: []
     permissions: []
   zck:
+    group: REG
+    subgroups: []
+    permissions: []
+  zct:
     group: REG
     subgroups: []
     permissions: []
