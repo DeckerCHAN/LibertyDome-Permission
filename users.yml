@@ -185,6 +185,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Kass:
+    group: REG
+    subgroups: []
+    permissions: []
   Kelvely:
     group: REG
     subgroups: []
