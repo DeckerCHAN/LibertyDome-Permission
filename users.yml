@@ -393,6 +393,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  wushi:
+    group: REG
+    subgroups: []
+    permissions: []
   xiaolaoshu:
     group: REG
     subgroups: []
