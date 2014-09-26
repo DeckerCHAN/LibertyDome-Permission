@@ -249,6 +249,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  mick00:
+    group: REG
+    subgroups: []
+    permissions: []
   Milktea_S:
     group: REG
     subgroups: []
