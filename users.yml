@@ -253,6 +253,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  LoktarOgar:
+    group: REG
+    subgroups: []
+    permissions: []
   lolo:
     group: REG
     subgroups: []
