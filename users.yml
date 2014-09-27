@@ -177,6 +177,10 @@ users:
     permissions: []
     info:
       prefix: '[&b实习管理&f]'
+  HDjun:
+    group: REG
+    subgroups: []
+    permissions: []
   HinanawiTenshi:
     group: REG
     subgroups: []
