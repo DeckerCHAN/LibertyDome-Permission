@@ -249,6 +249,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  loding:
+    group: REG
+    subgroups: []
+    permissions: []
   lolo:
     group: REG
     subgroups: []
