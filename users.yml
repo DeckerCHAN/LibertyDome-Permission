@@ -43,6 +43,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Biubiubiu:
+    group: REG
+    subgroups: []
+    permissions: []
   bjiasuo:
     group: REG
     subgroups: []
