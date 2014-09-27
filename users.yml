@@ -229,6 +229,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  linxublue:
+    group: REG
+    subgroups: []
+    permissions: []
   lite_030:
     group: REG
     subgroups: []
