@@ -425,6 +425,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  xiaozhao:
+    group: REG
+    subgroups: []
+    permissions: []
   XIdada:
     group: REG
     subgroups: []
