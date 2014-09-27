@@ -377,6 +377,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  SyHi:
+    group: REG
+    subgroups: []
+    permissions: []
   TehporP:
     group: REG
     subgroups: []
