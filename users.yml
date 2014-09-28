@@ -385,6 +385,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  SP_XiaoShou:
+    group: REG
+    subgroups: []
+    permissions: []
   Sunnywarm:
     group: REG
     subgroups: []
