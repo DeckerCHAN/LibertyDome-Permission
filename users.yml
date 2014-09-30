@@ -51,6 +51,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Brother:
+    group: REG
+    subgroups: []
+    permissions: []
   BuleShit:
     group: REG
     subgroups: []
