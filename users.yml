@@ -285,6 +285,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  MC_xiao_yao_:
+    group: REG
+    subgroups: []
+    permissions: []
   Mceside:
     group: REG
     subgroups: []
@@ -306,6 +310,10 @@ users:
     subgroups: []
     permissions: []
   Moon_soda:
+    group: REG
+    subgroups: []
+    permissions: []
+  MQX:
     group: REG
     subgroups: []
     permissions: []
@@ -466,6 +474,10 @@ users:
     subgroups: []
     permissions: []
   xiaolaoshu:
+    group: REG
+    subgroups: []
+    permissions: []
+  xiaom:
     group: REG
     subgroups: []
     permissions: []
