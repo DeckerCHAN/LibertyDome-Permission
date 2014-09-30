@@ -441,6 +441,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Treason_z:
+    group: REG
+    subgroups: []
+    permissions: []
   tsukkomier:
     group: REG
     subgroups: []
