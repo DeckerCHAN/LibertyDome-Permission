@@ -123,6 +123,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Dang:
+    group: REG
+    subgroups: []
+    permissions: []
   DanGao:
     group: REG
     subgroups: []
