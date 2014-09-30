@@ -179,6 +179,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  H_ghost:
+    group: REG
+    subgroups: []
+    permissions: []
   Han_Lang:
     group: REG
     subgroups: []
