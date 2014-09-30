@@ -163,6 +163,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Flandre_Scarlet:
+    group: REG
+    subgroups: []
+    permissions: []
   ftroze:
     group: REG
     subgroups: []
