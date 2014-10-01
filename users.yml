@@ -213,6 +213,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Hzo_Love_Li:
+    group: REG
+    subgroups: []
+    permissions: []
   Iristenium:
     group: REG
     subgroups: []
