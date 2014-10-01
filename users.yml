@@ -140,7 +140,7 @@ users:
     subgroups: []
     permissions: []
   DeckerCHAN:
-    group: REG
+    group: REC
     subgroups: []
     permissions: []
   Diethyl:
