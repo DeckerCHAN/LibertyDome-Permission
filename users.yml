@@ -75,6 +75,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Cheng_Yuan:
+    group: REG
+    subgroups: []
+    permissions: []
   chenxi:
     group: REG
     subgroups: []
