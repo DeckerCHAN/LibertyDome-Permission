@@ -465,16 +465,12 @@ users:
     group: REG
     subgroups: []
     permissions: []
-  TehporP:
-    group: REG
-    subgroups: []
-    permissions: []
   Tianhuan:
     group: REG
     subgroups: []
     permissions: []
   Tiankou:
-    group: REG
+    group: REC
     subgroups: []
     permissions: []
   Timeslight:
