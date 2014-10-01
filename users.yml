@@ -293,6 +293,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  luolikong:
+    group: REG
+    subgroups: []
+    permissions: []
   lyl:
     group: REG
     subgroups: []
