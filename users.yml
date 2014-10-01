@@ -144,7 +144,7 @@ users:
     subgroups: []
     permissions: []
   DeckerCHAN:
-    group: REC
+    group: REG
     subgroups: []
     permissions: []
   Diethyl:
@@ -479,6 +479,10 @@ users:
     permissions: []
   Tianhuan:
     group: REG
+    subgroups: []
+    permissions: []
+  Tiankou:
+    group: REC
     subgroups: []
     permissions: []
   Timeslight:
