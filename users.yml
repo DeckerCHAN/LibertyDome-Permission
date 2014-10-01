@@ -353,6 +353,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  No_Feeling:
+    group: REG
+    subgroups: []
+    permissions: []
   npcxh:
     group: REG
     subgroups: []
@@ -378,6 +382,10 @@ users:
     subgroups: []
     permissions: []
   qixi:
+    group: REG
+    subgroups: []
+    permissions: []
+  rebellion:
     group: REG
     subgroups: []
     permissions: []
