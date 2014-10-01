@@ -449,6 +449,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  suzune:
+    group: REG
+    subgroups: []
+    permissions: []
   SyHi:
     group: REG
     subgroups: []
