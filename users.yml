@@ -273,6 +273,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  liyvrui:
+    group: REG
+    subgroups: []
+    permissions: []
   loding:
     group: REG
     subgroups: []
