@@ -413,6 +413,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  S_N_L_N:
+    group: REG
+    subgroups: []
+    permissions: []
   Seedking:
     group: REG
     subgroups: []
@@ -475,6 +479,10 @@ users:
     permissions: []
   TehporP:
     group: REC
+    subgroups: []
+    permissions: []
+  The_JJ_Monster:
+    group: REG
     subgroups: []
     permissions: []
   Tianhuan:
