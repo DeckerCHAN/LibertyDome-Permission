@@ -309,6 +309,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  loLoi:
+    group: REG
+    subgroups: []
+    permissions: []
   lonelybird:
     group: REG
     subgroups: []
