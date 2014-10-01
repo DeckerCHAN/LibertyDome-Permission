@@ -217,6 +217,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  jony:
+    group: REG
+    subgroups: []
+    permissions: []
   Kass:
     group: REG
     subgroups: []
