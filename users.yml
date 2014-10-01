@@ -485,6 +485,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  wdj:
+    group: REG
+    subgroups: []
+    permissions: []
   weilian:
     group: REG
     subgroups: []
