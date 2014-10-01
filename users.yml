@@ -155,6 +155,10 @@ users:
     group: REG
     subgroups: []
     permissions: []
+  Eli:
+    group: REG
+    subgroups: []
+    permissions: []
   Eric:
     group: REG
     subgroups: []
