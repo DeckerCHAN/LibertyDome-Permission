@@ -481,10 +481,6 @@ users:
     group: REG
     subgroups: []
     permissions: []
-  Tiankou:
-    group: REC
-    subgroups: []
-    permissions: []
   Timeslight:
     group: REG
     subgroups: []
